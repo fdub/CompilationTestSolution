@@ -1,0 +1,10 @@
+c:\projects\vs\dist\TestSolution\TestSolution\bin\Debug\TestSolution.exe.config
+c:\projects\vs\dist\TestSolution\TestSolution\bin\Debug\TestSolution.exe
+c:\projects\vs\dist\TestSolution\TestSolution\bin\Debug\TestSolution.pdb
+c:\projects\vs\dist\TestSolution\TestSolution\bin\Debug\Library1.dll
+c:\projects\vs\dist\TestSolution\TestSolution\bin\Debug\Library2.dll
+c:\projects\vs\dist\TestSolution\TestSolution\bin\Debug\Library1.pdb
+c:\projects\vs\dist\TestSolution\TestSolution\bin\Debug\Library2.pdb
+c:\projects\vs\dist\TestSolution\TestSolution\obj\Debug\TestSolution.csprojResolveAssemblyReference.cache
+c:\projects\vs\dist\TestSolution\TestSolution\obj\Debug\TestSolution.exe
+c:\projects\vs\dist\TestSolution\TestSolution\obj\Debug\TestSolution.pdb

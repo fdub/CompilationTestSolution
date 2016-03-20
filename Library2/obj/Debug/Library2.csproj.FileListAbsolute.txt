@@ -1,0 +1,5 @@
+c:\projects\vs\dist\TestSolution\Library2\bin\Debug\Library2.dll
+c:\projects\vs\dist\TestSolution\Library2\bin\Debug\Library2.pdb
+c:\projects\vs\dist\TestSolution\Library2\obj\Debug\Library2.csprojResolveAssemblyReference.cache
+c:\projects\vs\dist\TestSolution\Library2\obj\Debug\Library2.dll
+c:\projects\vs\dist\TestSolution\Library2\obj\Debug\Library2.pdb

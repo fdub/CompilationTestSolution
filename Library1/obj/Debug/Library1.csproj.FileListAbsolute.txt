@@ -1,0 +1,4 @@
+c:\projects\vs\dist\TestSolution\Library1\bin\Debug\Library1.dll
+c:\projects\vs\dist\TestSolution\Library1\bin\Debug\Library1.pdb
+c:\projects\vs\dist\TestSolution\Library1\obj\Debug\Library1.dll
+c:\projects\vs\dist\TestSolution\Library1\obj\Debug\Library1.pdb
